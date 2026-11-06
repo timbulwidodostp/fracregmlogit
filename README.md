@@ -1,6 +1,8 @@
 # fracregmlogit
 Estimate Fractional Multinomial Logit Models Use fracregmlogit (fracreg) With (In) R Software
 
+https://www.youtube.com/watch?v=OXm3A4871x8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
